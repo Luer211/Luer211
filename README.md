@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://example.com/banner.png)
+
 
 ## 关于我
 
