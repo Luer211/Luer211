@@ -1,9 +1,9 @@
-# 欢迎来到我的 GitHub 个人资料主页！
+# Welcome to my GitHub profile!
 
 
 
-## 关于我
+## About Me
 
-Hi！我是luer，一名23级的计科大学生，兴趣是计算机，人工智能和商业。
-- 🌱 最近在学习: 后端开发和NLP。
-- 📫 如何联系我: 我的邮箱是(lueryy11@gmail.com)
+Hi! I'm Luer, a computer science student from the Class of 2023. My interests span computer science, artificial intelligence, and business.
+- 🌱 Currently focusing on: Backend development, AI application development, and Cloud Computing.
+- 📫 Contact me at: lueryy11@gmail.com
