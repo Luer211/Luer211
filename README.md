@@ -1,15 +1,15 @@
-# 👋 Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 
 
-## 📝 About Me
+## About Me
 
 Hi! I'm Luer.
 - 🎓 A undergraduate student majoring in Computer Science (2023-2027)
 - 📧 Contact me at: lueryy11@gmail.com
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ Hi! I'm Luer.
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 
-## 🔍 Interests
+## Interests
 
 - Software Development
 - Platform & Infrastructure
