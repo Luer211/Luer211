@@ -1,9 +1,25 @@
-# Welcome to my GitHub profile!
+# 👋 Welcome to my GitHub profile!
 
 
 
-## About Me
+## 📝 About Me
 
-Hi! I'm Luer, a computer science student from the Class of 2023. My interests span computer science, artificial intelligence and business.
-- 🌱 Currently focusing on: Backend development, AI application development, and Cloud Computing.
-- 📫 Contact me at: lueryy11@gmail.com
+Hi! I'm Luer.
+- 🎓 A undergraduate student majoring in Computer Science (2023-2027)
+- 📧 Contact me at: lueryy11@gmail.com
+
+
+## 🛠️ Languages & Tools
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+
+## 🔍 Interests
+
+- Software Development
+- Platform & Infrastructure
+- Artificial Intelligence
