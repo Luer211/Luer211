@@ -5,7 +5,7 @@
 ## About Me
 
 Hi! I'm Luer.
-- 🎓 A undergraduate student majoring in Computer Science (2023 - 2027)
+- 🎓 A undergraduate student majoring in Computer Science (2023-2027)
 - 📧 Contact me at: lueryy11@gmail.com
 
 
