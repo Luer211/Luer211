@@ -22,4 +22,4 @@ Hi! I'm Luer.
 
 - Software Development
 - Platform & Infrastructure
-- Artificial Intelligence
+- Search and Recommendation Algorithms
